@@ -15,10 +15,15 @@ Database: Firebase / PostgreSQL
 
 Screenshots
 Home Page
-[Home](https://raw.githubusercontent.com/kthamini02-debug/DressLoop-Web/main/Login.png )
-
-
-
+[Home](https://raw.githubusercontent.com/kthamini02-debug/DressLoop-Web/main/Login.png)
+Donor Login
+[Donor Login](https://raw.githubusercontent.com/kthamini02-debug/DressLoop-Web/main/donor-login.png)
+Receiver Login
+[Receiver Login](https://raw.githubusercontent.com/kthamini02-debug/DressLoop-Web/main/receiver-login-png.png)
+Donor Dashboard
+[Donor Dashboard](https://raw.githubusercontent.com/kthamini02-debug/DressLoop-Web/main/donor-dashboard-png.png)
+Receiver Dashboard
+[Receiver Dashboard](https://raw.githubusercontent.com/kthamini02-debug/DressLoop-Web/main/receiver-dashboard.png)
 
 How to Run
 1.Clone the repository
